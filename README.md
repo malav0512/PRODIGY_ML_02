@@ -1,6 +1,6 @@
-Customer Segmentation Using K-Means Clustering
+# **Customer Segmentation Using K-Means Clustering**
 
-📌 Project Overview
+# **📌 Project Overview**
 
 This project focuses on Customer Segmentation using the K-Means clustering algorithm. The goal is to group customers based on their Annual Income and Spending Score to identify patterns in customer behavior.
 
