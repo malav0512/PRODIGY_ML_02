@@ -44,13 +44,13 @@ Scatter plot to visualize the customer clusters based on Income & Spending Score
 
 Make sure you have the following dependencies installed:
 
-pip install pandas numpy matplotlib seaborn scikit-learn
+`pip install pandas numpy matplotlib seaborn scikit-learn`
 
 ## **📝 Usage**
 
 Run the following Python script to execute the clustering analysis:
 
-python customer_segmentation.py
+`python customer_segmentation.py`
 
 ## **🔍 Key Insights**
 
